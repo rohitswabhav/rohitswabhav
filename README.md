@@ -6,6 +6,7 @@ I'm a Solution Architect & Software Mentor at Swabhav TechLabs. With over 12 yea
 ---
 
 ## 🚀 Areas of Expertise
+- **Artificial Intelligence & Machine Learning:** Expertise in advanced AI models including neural networks (CNN, RNN, KNN, GANs), regression, classification, and time-series forecasting. I design and deploy AI systems that deliver actionable insights.
 - **Full-Stack Development:** Expert in both backend and frontend technologies.
 - **Software Architecture:** Designing robust, scalable solutions.
 - **Mentorship:** Dedicated to nurturing and growing future tech leaders.
@@ -21,9 +22,48 @@ I lead with a focus on collaboration, innovation, and continuous learning. My ap
 ## 💼 Professional Journey
 - **Current Role:** Solution Architect & Software Mentor at Swabhav TechLabs.
 - **Experience:** Over 12 years of expertise in shaping developers and delivering technology solutions.
-- **Domains:** DotNet, Java, and a range of modern technologies including Microservices and Full-Stack Java Development.
+- **Domains:** GenAI,DotNet, Java, and a range of modern technologies including Microservices and Full-Stack Java Development.
 - **Approach:** Committed to an engaging, collaborative learning environment that inspires innovation.
 
+---
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Innovate-YourFuture-blueviolet?style=for-the-badge" alt="Innovate Your Future" />
+</div>
+
+**🔍 SentinelProctor: AI-Powered Remote Exam Monitoring**
+Ensuring Exam Integrity in Mithril LMS
+Integrated the YOLO model for real-time object detection, enhancing security and preventing malpractice in remote recruitment exams.
+
+**📈 LeadBoost: AI-Driven Sales Qualification**
+Optimizing Sales Conversion with Predictive Analytics
+Leveraged machine learning (logistic regression, random forest, SVM, and more) to assess lead quality, refine targeting, and enhance marketing efficiency.
+
+**👥 PersonaAI: Smart User Profiling & Engagement**
+Unlocking Customer Insights with Generative AI
+Automated user profiling using Generative AI, providing businesses with precise insights to improve engagement and decision-making.
+
+**📚 InsightMiner: Intelligent Document Analysis**
+Extracting Knowledge from Complex Documents
+Developed an AI-powered solution with OpenAI, Pinecone, Flask, and Langchain to analyze and extract key insights from technical documentation.
+
+**🤖 DeepProfile: Next-Gen AI for User Insights**
+Advanced Business Intelligence with GenAI
+Enhanced user profiling with GenAI, Python, and Flask, delivering actionable intelligence to drive strategic business decisions.
+
+**📝 TalentScan: AI-Powered Resume Analysis**
+Revolutionizing Candidate Evaluation
+Built an AI-driven resume parsing tool using OpenAI and Langchain, streamlining talent identification for faster, more accurate hiring.
+
+**💻 CodeCrafter: AI-Assisted Code Generation & Interpretation**
+Boosting Developer Productivity with AI
+Designed an intelligent coding assistant using OpenAI, Pinecone, and Flask to generate and interpret code, simplifying complex development tasks.
+
+---
+### AI & Integration Technologies
+- **Agentic AI Frameworks:** Langchain, LangGraph, RAG, CAG
+- **Third-Party Tools & Integrations:** Salesforce Admin Cloud, Salesforce Pardot, Hubspot, OpenAI, Anthropic, Gemini, ZoomInfo, Apollo
 ---
 
 ### Frameworks & Libraries
